@@ -3,6 +3,11 @@
 !*.*
 !*/
 
+# Temporary files
+tmp.cpp
+temp.cpp
+test.cpp
+
 # Prerequisites
 *.d
 
